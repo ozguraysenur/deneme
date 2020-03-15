@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hi" );
             Console.WriteLine("hello");
+            Console.WriteLine("how are you?");
 
         }
     }
